@@ -15,5 +15,6 @@ public class tanque extends Actor
     public void act() 
     {
         move(3);
+        turn(1);
     }    
 }
